@@ -1,0 +1,10 @@
+name = "agent"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+[[kv_namespaces]]
+binding = "FREELATTICE_KV"
+id = "e9d265fdc3d246da8f27575d0f987aae"
+
+[vars]
+BOT_TOKEN = "REPLACE_WITH_BOT_TOKEN"
